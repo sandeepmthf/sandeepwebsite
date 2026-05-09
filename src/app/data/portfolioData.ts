@@ -30,16 +30,16 @@ export const projects = [
     ]
   },
   {
-    title: 'Ghartak – Real Estate Platform',
-    tech: 'React, Next.js, Tailwind CSS',
+    title: 'Ghartak – Local Vendor Platform',
+    tech: 'React, Node.js, MongoDB, API',
     date: '2026',
     logo: gurtakLogo,
     github: 'https://github.com/sandeepmthf/ghartak2',
     liveLink: 'https://ghartak2.vercel.app/',
     description: [
-      'Developed a modern real estate platform with intuitive property browsing and search functionality.',
-      'Built with Next.js for optimal performance and SEO, featuring server-side rendering and dynamic routing.',
-      'Implemented responsive design with Tailwind CSS ensuring seamless experience across all devices.'
+      'Developed a platform for local vendors to expand their business and reach more customers.',
+      'Built a robust backend using Node.js and MongoDB to manage vendor data and products.',
+      'Integrated scalable APIs to connect the backend with the React frontend for a seamless user experience.'
     ]
   }
 ];
